@@ -1,7 +1,11 @@
-import React from 'react';
+import React from 'react'
 
 function Continents() {
-  return <h2>Continents go here</h2>;
+  return (
+    <div>
+      <h2>Continents go here</h2>
+    </div>
+  )
 }
 
-export default Continents;
+export default Continents
